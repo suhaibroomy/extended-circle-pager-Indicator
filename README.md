@@ -8,7 +8,7 @@ app:more_ahead_icon="@drawable/ic_walkthrough_previous"
 app:more_back_icon="@drawable/ic_walkthrough_next"
 ```
         
-Download [the latest JAR][2] or grab via Gradle:
+Grab via Gradle:
 ```groovy
 compile 'in.co.digitalhands:extended-circle-pager-indicator:1.0'
 ```
